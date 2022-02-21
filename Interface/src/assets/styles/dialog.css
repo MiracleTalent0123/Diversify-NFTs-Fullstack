@@ -1,0 +1,10 @@
+.popup .MuiPaper-root {
+  background: #19191c !important;
+  max-width: 300px !important;
+  width: 100%;
+  box-shadow: none;
+}
+
+.qr-code {
+  cursor: none;
+}
